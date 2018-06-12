@@ -1,0 +1,17 @@
+
+* {
+    margin:auto;
+    padding:10px;
+}
+.heading1 {
+    margin:20px;
+    text-align: center;
+}
+
+.btnmargin {
+    margin:10px;
+}
+
+.hideTable {
+    display:none;
+}
