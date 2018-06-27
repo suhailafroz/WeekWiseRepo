@@ -1,0 +1,13 @@
+div {
+    border:1px solid grey;
+    background-color:midnightblue;
+    font-family:"Edwardian Script ITC";
+    border-radius: 5px;
+    height:80px;
+    
+}
+h2 {
+    font-size:50px;
+    color:yellowgreen;
+    vertical-align: middle;
+}
